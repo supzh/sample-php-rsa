@@ -1,5 +1,11 @@
 <?php
 
+/****
+***** yiviyj
+***** supzh
+***** github.com/supzh
+*/
+
 class sample_rsa
 {			
 	public  function encrypt($key, $m = 30)
