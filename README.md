@@ -1,4 +1,4 @@
-# sample_php_rsa
+# sample-php-rsa
 
 PHP RSA加解密原理实现(不调用php内置的rsa函数,纯方法实现)
 
