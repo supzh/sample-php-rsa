@@ -6,6 +6,7 @@ PHP RSA加解密原理实现(不调用php内置的rsa函数,纯方法实现)
 https://zhuanlan.zhihu.com/p/48249182
 
 
+使用示例
 ```php
 $rsa = new sample_rsa();
 $key = $rsa->createKey();
