@@ -12,9 +12,9 @@ $key = $rsa->createKey();
 
 $encrypt_data = $rsa->encrypt_data($key, 'test');
 
-echo $encrypt_data.PHP_EOL;
+echo $encrypt_data."\n";
 
 $decrypt_data = $rsa->decrypt_data($key, $encrypt_data);
 
-echo $decrypt_data.PHP_EOL;
+echo $decrypt_data."\n";
 ```
